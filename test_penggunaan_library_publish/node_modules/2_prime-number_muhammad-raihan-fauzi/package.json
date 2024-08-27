@@ -1,0 +1,16 @@
+{
+  "name": "2_prime-number_muhammad-raihan-fauzi",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

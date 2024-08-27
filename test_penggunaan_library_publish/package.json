@@ -1,0 +1,15 @@
+{
+  "name": "test_penggunaan_library_publish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2_prime-number_muhammad-raihan-fauzi": "^1.0.1"
+  }
+}
